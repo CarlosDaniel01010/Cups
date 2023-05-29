@@ -21,7 +21,9 @@
   #cd /etc/cups
   #sudo nano  cupsd.conf
 
-  #Comando para iniciar o cups Met.2, iniciar toda vez que ligar o pc e verificar o status. ---> systemctl start cups
+  #Comando para iniciar o cups Met.2, iniciar toda vez que ligar o pc e verificar o status. 
+  
+   ---> systemctl start cups
     
    ---> systemctl enable cups
     
