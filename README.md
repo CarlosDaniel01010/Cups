@@ -5,6 +5,7 @@
 2 - Utilizar o ./scriptcups.sh; 
 
 3 - Caso queira usar comando por comando ou não funcionar o script, utilizar esses comandos:
+  
   #Comando para instalar o cups --->
     sudo apt-get install cups
 
