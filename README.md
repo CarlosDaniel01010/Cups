@@ -26,8 +26,10 @@
    ---> systemctl status cups
 
 4 - Configurar para que o gerenciador de impressão funcione de forma mais ágil, configurar alguns paramêtros no arquivo.
-  ---> cd /etc/cups
-  ---> sudo nano cupsd.conf
+   
+   ---> cd /etc/cups
+   
+   ---> sudo nano cupsd.conf
 
 5 - Adicionar o ip da Rede no arquivo cupsd.conf, salvar e usar o comando ---> systemctl restart cups
 
